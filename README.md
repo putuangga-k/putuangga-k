@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Mining, Machine Learning, and Deep Learning<br>🌱 I’m currently learning about Web Development (Laravel and PHP)<br>⚡ Proficient in Python, R, MySQL
+🔭 I’m currently working on Data Mining, Machine Learning, Deep Learning, and Natural Language Processing (NLP) <br>🌱 I’m currently learning about Web Development (Laravel and PHP)<br>⚡ Proficient in Python, R, MySQL
 
 
 ## 🌐 Socials:
